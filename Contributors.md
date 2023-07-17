@@ -13,6 +13,7 @@
 -   [Brian Vose](https://github.com/Banzubie)
 -   [Shiro Yukami](https://github.com/Shiro-cha)
 -   [Abhinna](https://github.com/abhinnachandra/first-contributions-a)
+-   [Ankit Anand](https://github.com/Ankit-Karn)
 -   [NeverW8](https://github.com/NeverW8)
 -   [Franz Tiongson](https://github.com/versacodes)
 -   [Mr Weis](https://github.com/werelouis)
